@@ -1,0 +1,13 @@
+### MACOS ###
+.DS_Store
+
+### Node ###
+node_modules/
+
+### Ignore environment configurations ###
+.env
+/logs
+
+### VS Code ignores ###
+.vscode
+debug.log
